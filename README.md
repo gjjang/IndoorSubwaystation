@@ -16,6 +16,8 @@ A scanner (mobile device) placed with respect to each reference point acquired t
 
 •	Data Type 2: If a value of -130 dBm is obtained in the data collected using the BLE beacon installed in the indoor subway station, it is assumed that the RSSI value is missing. In that case, the data for which the RSSI values are maintained in the NaN format are referred to.
 
+Zone A is marked with 0, Zone B with 1, and Zone C with 2, respectively.
+
 ## Authors
 Please send email to gjjang@skku.edu or chahn@koreatech.ac.kr if there are any problems with downloading or using the data.
 
